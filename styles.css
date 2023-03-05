@@ -1,0 +1,24 @@
+body{
+    background-color: #ece4e4;
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+}
+
+.demo-box{
+    height: 400px;
+    width: 400px;
+    background-color: #f2f2ff;
+    box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    text-align: center;
+}
+
+h1{
+  font-size: 35px;
+  font-family: 'Roboto',sans-serif;
+  text-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
+   color: navy;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+}
